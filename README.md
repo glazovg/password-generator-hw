@@ -10,13 +10,13 @@ Web site to create the better encrypted passwords by adding JavaScript logic.
 - All criterias and legnth should be given by `prompts` and `confirm` dialogs.
 
 
-![password generator](/img/password_gen1.gif)
+![password generator](/assets/img/password_gen1.gif)
 
 ## Constraints 
 - At least a criteria to create password must be included if not included a message should be displayed.
 - If length password is less than 7 or greater than 128 a message should be displayed.
 
-![password generator constraints](/img/password_gen2.gif)
+![password generator constraints](/assets/img/password_gen2.gif)
 
 
 **[Password Generator Web Page](https://link-url-here.org)**
