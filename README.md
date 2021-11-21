@@ -19,7 +19,7 @@ Web site to create the better encrypted passwords by adding JavaScript logic.
 ![password generator constraints](/assets/img/password_gen2.gif)
 
 
-**[Password Generator Web Page](https://link-url-here.org)**
+**[Password Generator Web Page](https://glazovg.github.io/password-generator-hw/)**
 
 Created by tec.bootcampcontent.com
 JS code by Guillermo Lazo
